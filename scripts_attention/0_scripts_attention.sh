@@ -4,7 +4,7 @@ b=128
 workers=15
 lr=0.1
 num_classes=8
-train_path='../randstaina++/train_ddsgd.py'
+train_path='../randstaina++/train.py'
 nj_random_path='../crc_dataset/crc_yaml'
 
 python $train_path $dataset_path \
