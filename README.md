@@ -2,7 +2,7 @@
 
 Implementation for the paper: "RandStainNA++: Enhance Random Stain Augmentation and Normalization through Foreground and Background Differentiation“
 
-Paper link: https://arxiv.org/abs/2206.12694
+
 
 ## 1. Method Overview
 
